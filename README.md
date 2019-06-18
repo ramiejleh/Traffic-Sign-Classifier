@@ -180,7 +180,7 @@ For the third image, the model is clearly sure that this is a Pedestrians sign (
 | .00006	      	    | Traffic signals					 		    |
 | .000009				| Road narrows on the right   					|
 
-For the fourth image, the model is clearly sure that this is a Traffic signals sign (probability of 0.9), and the image does contain a Traffic signals sign. The top five soft max probabilities were
+For the fourth image, the model is clearly sure that this is a Traffic signals sign (probability of 0.8), and the image does contain a Traffic signals sign. The top five soft max probabilities were
 
 | Probability         	|     Prediction	        					| 
 |:---------------------:|:---------------------------------------------:| 
